@@ -159,7 +159,7 @@ module.exports={
       }
       const msg = {
         to: user.email,
-        from: 'surfshop722@gmail.com',
+        from: 'abc@gmail.com',
         subject: 'Surf Shop - Password Changed',
         text: `Hello,
           This email is to confirm that the password for your account has just been changed.
